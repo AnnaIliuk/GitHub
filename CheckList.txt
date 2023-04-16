@@ -1,0 +1,9 @@
+Environments:				
+Test date:				
+Tester:				
+№ | Checking | expected result | Status | Comment |
+1
+2
+3
+4
+5

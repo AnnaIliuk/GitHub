@@ -147,7 +147,7 @@ git add . && git commit -m "correct slills,json" && git push
 
 13. На веб-интерфейсе создать файл bug_report.json
 ```
-- зайти в репозиторий
+- зайти в репозиторий JSON
 - клип по кнопке  [Add file] 
 - клик по [Appload files]
 - клик по [Choose your file]
@@ -273,7 +273,11 @@ git push
 
 31. На веб-интерфейсе создать файл bug_report.xml
 ```
-
+- зайти в репозиторий [XML]
+- клип по кнопке  [Add file] 
+- клик по [Appload files]
+- клик по [Choose your file]
+- клик по кнопке [Commit changes]
 ```
 
 32. Сделать Commit changes (сохранить) изменения на веб интерфейсе
@@ -310,7 +314,10 @@ Conceal and Define Full Coverage Concealer" находится во вкладк
 
 34. Сделать Commit changes (сохранить) изменения на веб интерфейсе
 ```
-
+- клик по названию файла [bug_report.xml]
+- клик по [Edit file]
+- внести изменения 
+- клик по [Commit changes]
 ```
 
 35. Синхронизировать внешний и локальный репозиторий XML

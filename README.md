@@ -162,6 +162,7 @@ git add . && git commit -m "correct slills,json" && git push
 - внести изменения 
 - клик по [Commit changes]
 ```
+
 15. На веб-интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON
 ```
 - клик по названию файла [bug_report.json]
@@ -169,6 +170,7 @@ git add . && git commit -m "correct slills,json" && git push
 - внести изменения 
 - клик по [Commit changes]
 ```
+
 16. Синхронизировать внешний и локальный репозиторий JSON
 ```
 git pull

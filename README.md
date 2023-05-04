@@ -9,6 +9,7 @@
 - ввести имя репозитория
 - поставить radio button [Public] и [Add a README file]
 - клик по [Create repository]
+```
 
 2.  Клонировать репозиторий JSON на локальный компьютер
 ```
